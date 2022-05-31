@@ -1,4 +1,3 @@
-# Rename-files
 # This is a group of 8 scripts (written in Python) that renames files.
 # The way each file is renamed is based on the filename of the script.
 # The following describes how each letter of the script's filename describes the script's function.
