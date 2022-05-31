@@ -15,3 +15,5 @@
 # 3rd letter of script filename (Can it rename files in subdirectory?)
 # S: Single directory
 # R: Recursive
+
+# Code will not be updated.
